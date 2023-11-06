@@ -1,1 +1,4 @@
 # Yandex_practicum_course
+Project Description 
+You have at your disposal data from the Yandex Real Estate service - an archive of advertisements for flats for sale in St. Petersburg and neighbouring settlements for several years. You need to learn how to determine the market value of properties. Your task is to conduct a research analysis of the data, which will help to establish the parameters that affect the price of objects. This will allow you to build an automated system: it will track anomalies and fraudulent activity. 
+Two types of data are available for each flat for sale. The first is entered by the user, the second is obtained automatically on the basis of cartographic data. For example, the distance to the centre, airport and other objects - this data is automatically obtained from geoservices. The number of parks and water bodies is also filled in without user input.
